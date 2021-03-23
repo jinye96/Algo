@@ -1,4 +1,4 @@
-package mon03day23;
+package mon03day23; 
 
 public class BJ_4673_Main {
 

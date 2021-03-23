@@ -1,5 +1,5 @@
 package mon03day23;
-import java.util.Arrays;
+
 import java.util.Scanner;
 
 public class BOJ_2002_Main {

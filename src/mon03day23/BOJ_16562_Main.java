@@ -1,6 +1,6 @@
 package mon03day23;
 import java.util.Scanner;
-
+ 
 public class BOJ_16562_Main {
 	static int n, m, k;
 	static int[] money;

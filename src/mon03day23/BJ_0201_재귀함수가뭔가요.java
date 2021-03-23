@@ -1,4 +1,4 @@
-package mon03day23;
+package mon03day23; 
 import java.util.Scanner;
 
 public class BJ_0201_재귀함수가뭔가요 {

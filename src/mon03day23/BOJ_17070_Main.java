@@ -1,6 +1,6 @@
 package mon03day23;
 import java.util.Scanner;
-
+ 
 public class BOJ_17070_Main {
 	static int n;
 	static int[][] map;

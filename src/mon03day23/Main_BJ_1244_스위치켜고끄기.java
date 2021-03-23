@@ -1,5 +1,5 @@
 package mon03day23;
-
+ 
 import java.util.Scanner;
 
 public class Main_BJ_1244_스위치켜고끄기 {

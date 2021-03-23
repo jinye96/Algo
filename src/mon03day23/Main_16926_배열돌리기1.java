@@ -1,6 +1,6 @@
 package mon03day23;
 import java.util.Scanner;
-
+ 
 public class Main_16926_배열돌리기1 {
 
 	static int[][] arr1, arr2;

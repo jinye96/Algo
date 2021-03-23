@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class BOJ_1759_Main {
 	
-	static String [] input;
+	static String [] input; 
 	static String [] output;
 	static int n, c;
 	

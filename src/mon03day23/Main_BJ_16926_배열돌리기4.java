@@ -1,6 +1,6 @@
 package mon03day23;
 import java.util.Scanner;
-
+ 
 public class Main_BJ_16926_배열돌리기4 {
 	static int N, M, R;
 	static int[] dy = { 0, 1, 0, -1 };// 행인덱스

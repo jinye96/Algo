@@ -1,4 +1,4 @@
-package mon03day23;
+package mon03day23; 
 import java.util.Scanner;
 
 public class BOJ_1260_Main {

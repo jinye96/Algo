@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
-
+ 
 public class JW_1681_Main2 {
 	
 	private static class Node implements Comparable<Node>{

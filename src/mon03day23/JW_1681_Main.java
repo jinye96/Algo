@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.StringTokenizer;
 
 // 풀리지 않아서, https://imnotabear.tistory.com/159 코드를 참고하였습니다.
-
+ 
 public class JW_1681_Main {
 	static int arr[][], num, result;
 	static boolean visit[];

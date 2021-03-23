@@ -1,5 +1,5 @@
 package mon03day23;
-import java.util.ArrayList;
+
 import java.util.LinkedList;
 import java.util.Scanner;
 
