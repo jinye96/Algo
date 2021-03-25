@@ -14,9 +14,9 @@ public class BOJ_11053_Main {
 		StringTokenizer str = new StringTokenizer(br.readLine());
 		for(int i= 0; i < n; i++) {
 			arr[i] = Integer.parseInt(str.nextToken());
-			length[i] = 1;
+			
 		}
-		for(int i= 1; i < n; i++) {
+		for(int i= 0; i < n; i++) {
 			for(int j = i-1; j > -1; j--) {
 				if(arr[i] > arr[j]) {
 					length[i] = Math.max(length[j] + 1, length[i]);
